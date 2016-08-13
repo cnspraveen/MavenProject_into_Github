@@ -5,7 +5,8 @@
     <classes>
       <class name="com.mavenjenkns.com.MavenJenkins">
         <methods>
-          <include name="MavenJenkinsMethod"/>
+          <include name="MavenJenkinsMethod_Pass"/>
+          <include name="MavenJenkinsMethod_Fail"/>
         </methods>
       </class> <!-- com.mavenjenkns.com.MavenJenkins -->
     </classes>
